@@ -1,6 +1,7 @@
 ### Hi there 👋
-<center><img src="https://user-images.githubusercontent.com/33888806/179410999-63197a00-8bb7-407c-a5e3-fb286bcc86f2.gif"></img></center>
-
+<div align=center>
+<img src="https://user-images.githubusercontent.com/33888806/179410999-63197a00-8bb7-407c-a5e3-fb286bcc86f2.gif" width="100%"/>
+</div>
 
 <!--
 **GabeYuan/GabeYuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
